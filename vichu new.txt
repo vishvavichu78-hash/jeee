@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pongal Event Management</title>
+</head>
+<body style="font-family: Arial; background-color: pink; text-align: center;">
+
+  <h1 style="color: red;">🎉  pongal games 2025 🎊</h1>
+  <h3>Organized by:palaiyur brothers</h3>
+
+  <hr>
+
+  <h2>About the games</h2>
+  <p>
+    Celebrate the harvest festival of <b>Pongal</b> with  traditional games, and delicious food!<br>
+    Participate and showcase your talents in this joyful festival of gratitude and prosperity.
+  </p>
+
+  <h3>Date: January 15, 2025</h3>
+  <h3>Venue: palaiyur street near kovil</h3>
+
+  <hr>
+
+  <h2>Registration Form</h2>
+  
+    <label><b>participants Name:</b></label><br>
+    <input type="text" ><br><br>
+
+    <label><b>Age:</b></label><br>
+    <input type="number" ><br><br>
+
+    <label><b>Gender:</b></label><br>
+    <select  required>
+      <option value="">-- Select Gender --</option>
+      <option>Male</option>
+      <option>Female</option>
+      <option>Other</option>
+    </select><br><br>
+
+  
+
+    <label><b>games Category:</b></label><br>
+    <select  required>
+      <option value="">-- Select games --</option>
+      <option>paanai udaithal</option>
+      <option>muruku kadithal</option>
+      <option>100 m running</option>
+      <option>200 m running</option>
+      <option>700 m running</option>
+      <option>pin and thread</option>
+      <option>lemon in the spoon</option>
+      <option>stone picking</option>
+      <option>ball picking</option>
+      <option>frog race</option>
+      <option>saaku running</option>
+      <option>marathon</option>
+      <option>stump the ball</option>
+      <option>kabbadi</option>
+      <option>kho_kho</option>
+      <option>water fill</option>
+      <option>box cricket</option>
+      <option>rope pulling</option>
+      <option>speech </option>
+      <option>singing</option>
+      <option>patimandram</option>
+      <option>dance</option>
+      <option>drama</option>
+      <option>recreate a scene from movie</option>
+    </select><br><br>
+
+
+    <h3>judge's Name: Dharma,Sarathy,Bharathi</h3>
+    
+
+
+    <button type="submit">
+      Submit Registration
+    </button>
+  </form>
+
+ 
+
+  <hr>
+
+  
+</body>
+</html>
