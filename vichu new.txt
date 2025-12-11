@@ -59,12 +59,7 @@
       <option>kho_kho</option>
       <option>water fill</option>
       <option>box cricket</option>
-      <option>rope pulling</option>
-      <option>speech </option>
-      <option>singing</option>
-      <option>patimandram</option>
-      <option>dance</option>
-      <option>drama</option>
+      
       <option>recreate a scene from movie</option>
     </select><br><br>
 
